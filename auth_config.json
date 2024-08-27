@@ -1,0 +1,6 @@
+{
+  "clientSecret": "119cd28ba847d63f20e532a74cedea4c4c29a2056f",
+  "clientId": "1000.GFYU1R2DEYAG7STA4E99S7RGE0ANTG",
+  "redirectUri": "https://localhost:5173/auth/login",
+  "scope": "AaaServer.profile.Read,ZohoCRM.modules.ALL,ZohoCRM.settings.ALL,ZohoCRM.users.ALL"
+}
